@@ -22,12 +22,12 @@ This project uses the **SpeechRecognition** library and a pre-trained speech rec
 
 ## 📦 Installation
 
-1. Install the required dependency:
-       pip install SpeechRecognition
-
-2. Clone the repository:
+1. Clone the repository:
         git clone https://github.com/NikhilNadh/Speech-Recognition-System.git
         cd Speech-Recognition-System
+        
+2. Install the required dependency:
+       pip install SpeechRecognition
 
 3. Run :
         python speech_to_text.py
