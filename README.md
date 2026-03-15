@@ -1,11 +1,3 @@
-## INTERNSHIP
-- *COMPANY* : CODTECH IT SOLUTIONS 
-- *NAME* : NIKHIL NADH S 
-- *INTERN ID* : CTIS3199 
-- *DOMAIN* : AI 
-- *DURATION* : 6 WEEKS 
-- *MENTOR* : NEELA SANTOSH
-
 # 🎙️ Speech Recognition System (Speech-to-Text)
 
 A simple **Python-based Speech Recognition System** that converts **spoken audio into text**.  
